@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+authors:
+- family-names: "Saoussene"
+  given-names: "Zelit"
+  orcid: "https://orcid.org/0009-0001-7610-0898"
+- family-names: "Bouarroudj"
+  given-names: "Younes"
+  orcid: "https://orcid.org/0009-0005-0392-4078"
+- family-names: "Guerroumi"
+  given-names: "Mohamed"
+  orcid: "https://orcid.org/0000-0001-9998-0608"
+title: "ITM-SES-Article-Omnet-Simulation"
+version: 0.1.0
+doi: https://doi.org/10.5281/zenodo.18441790
+date-released: 2026-01-31
+url: https://github.com/younesbouarroudj/ITM-SES-Article-Omnet-Simulation
